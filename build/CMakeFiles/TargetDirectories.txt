@@ -1,0 +1,4 @@
+/home/gan/mylog/build/CMakeFiles/mylog.dir
+/home/gan/mylog/build/CMakeFiles/example.dir
+/home/gan/mylog/build/CMakeFiles/edit_cache.dir
+/home/gan/mylog/build/CMakeFiles/rebuild_cache.dir

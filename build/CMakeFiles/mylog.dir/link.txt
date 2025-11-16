@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmylog.a CMakeFiles/mylog.dir/src/logger.cpp.o CMakeFiles/mylog.dir/src/sinks/stdout_sink.cpp.o CMakeFiles/mylog.dir/src/sinks/file_sink.cpp.o
+/usr/bin/ranlib libmylog.a
